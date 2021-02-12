@@ -6,6 +6,6 @@ class Bus < ApplicationRecord
         self.power_balance = self.maximum_transmission_power + self.baud_rate 
         self.save
     end
-    
+    #put
 
 end
